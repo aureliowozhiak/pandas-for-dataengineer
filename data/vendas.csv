@@ -1,0 +1,16 @@
+data,vendedor,produto,categoria,quantidade,preco_unitario,regiao
+2024-01-15,Ana Silva,Notebook Dell,Eletrônicos,2,2500.00,Sudeste
+2024-01-16,João Santos,Mouse Logitech,Eletrônicos,5,85.50,Sul
+2024-01-17,Maria Costa,Teclado Mecânico,Eletrônicos,3,320.00,Nordeste
+2024-01-18,Pedro Lima,Monitor 24",Eletrônicos,1,899.99,Norte
+2024-01-19,Ana Silva,Cabo HDMI,Eletrônicos,10,25.90,Sudeste
+2024-01-20,Carlos Rocha,Notebook HP,Eletrônicos,1,3200.00,Centro-Oeste
+2024-01-21,Lucia Mendes,Impressora Canon,Eletrônicos,2,450.00,Sul
+2024-01-22,João Santos,Webcam Full HD,Eletrônicos,4,180.00,Sul
+2024-01-23,Maria Costa,Headset Gamer,Eletrônicos,6,220.50,Nordeste
+2024-01-24,Ana Silva,SSD 1TB,Eletrônicos,3,380.00,Sudeste
+2024-02-01,Pedro Lima,Smartphone Samsung,Eletrônicos,2,1200.00,Norte
+2024-02-02,Carlos Rocha,Tablet iPad,Eletrônicos,1,2800.00,Centro-Oeste
+2024-02-03,Lucia Mendes,Carregador Portátil,Eletrônicos,8,95.00,Sul
+2024-02-04,João Santos,Caixa de Som Bluetooth,Eletrônicos,3,150.00,Sul
+2024-02-05,Maria Costa,Roteador Wi-Fi,Eletrônicos,2,280.00,Nordeste

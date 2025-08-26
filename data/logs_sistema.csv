@@ -1,0 +1,16 @@
+timestamp,usuario,acao,status,ip_address,user_agent
+2024-01-15 08:30:15,user123,login,sucesso,192.168.1.100,Mozilla/5.0
+2024-01-15 08:31:22,user456,login,falha,192.168.1.101,Chrome/96.0
+2024-01-15 08:35:10,user123,upload_arquivo,sucesso,192.168.1.100,Mozilla/5.0
+2024-01-15 09:15:33,user789,login,sucesso,192.168.1.102,Firefox/95.0
+2024-01-15 09:20:45,user456,login,sucesso,192.168.1.101,Chrome/96.0
+2024-01-15 10:05:12,user123,download_arquivo,sucesso,192.168.1.100,Mozilla/5.0
+2024-01-15 10:30:28,user789,logout,sucesso,192.168.1.102,Firefox/95.0
+2024-01-15 11:45:55,user999,login,falha,192.168.1.103,Safari/14.0
+2024-01-15 12:15:33,user456,upload_arquivo,falha,192.168.1.101,Chrome/96.0
+2024-01-15 13:22:41,user123,logout,sucesso,192.168.1.100,Mozilla/5.0
+2024-01-15 14:10:18,user789,login,sucesso,192.168.1.102,Firefox/95.0
+2024-01-15 15:35:27,user999,login,sucesso,192.168.1.103,Safari/14.0
+2024-01-15 16:20:44,user456,download_arquivo,sucesso,192.168.1.101,Chrome/96.0
+2024-01-15 17:05:12,user789,logout,sucesso,192.168.1.102,Firefox/95.0
+2024-01-15 18:30:55,user999,logout,sucesso,192.168.1.103,Safari/14.0

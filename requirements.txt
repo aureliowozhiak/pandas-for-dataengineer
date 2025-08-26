@@ -1,0 +1,37 @@
+# Pandas para Engenharia de Dados - Dependências
+
+# Core
+pandas>=2.0.0
+numpy>=1.21.0
+
+# Análise e Estatística
+scipy>=1.7.0
+
+# Visualização (opcional, para alguns exemplos)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Performance e Monitoramento
+psutil>=5.8.0
+
+# Formatos de Arquivo
+openpyxl>=3.0.0      # Para Excel
+xlsxwriter>=3.0.0    # Para Excel alternativo
+pyarrow>=10.0.0      # Para Parquet
+fastparquet>=0.8.0   # Para Parquet alternativo
+
+# Big Data (opcional)
+# dask>=2023.1.0     # Para processamento distribuído
+# modin>=0.15.0      # Para pandas acelerado
+
+# Conectividade
+requests>=2.28.0     # Para APIs REST
+sqlalchemy>=1.4.0    # Para databases
+
+# Desenvolvimento
+jupyter>=1.0.0       # Para notebooks
+ipython>=8.0.0       # Para shell interativo
+
+# Utilitários
+python-dateutil>=2.8.0
+pytz>=2022.1
