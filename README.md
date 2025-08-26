@@ -217,12 +217,6 @@ Contribuições são bem-vindas! Por favor:
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para detalhes.
 
-## 📞 Contato
-
-- **GitHub**: [Seu perfil GitHub]
-- **LinkedIn**: [Seu LinkedIn]
-- **Email**: [Seu email]
-
 ---
 
 ⭐ **Se este curso foi útil para você, considere dar uma estrela no repositório!**
